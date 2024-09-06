@@ -14,5 +14,5 @@ Batch normalization: By normalizing inputs to each layer, this technique acceler
 Early Stopping: When performance on the validation set no longer improves, training is stopped.
 Model Checkpointing: This feature automatically preserves the model that performs the best throughout validation.
 # Result
-Accuracy: The model successfully distinguished between "Libros" and "Mangas" with over 90% accuracy on the validation set.
+Accuracy: The model successfully distinguished between "Libros" and "Mangas" with over 70% accuracy on the validation set.
 Confusion Matrix: A thorough examination of the confusion matrix reveals excellent performance and very few incorrect classifications
